@@ -1,4 +1,6 @@
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/spshota/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/spshota/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/spshota/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/spshota/discussion)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=peisuke&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peisuke&hide=Jupyter%20Notebook,Dockerfile" />
+</a>
